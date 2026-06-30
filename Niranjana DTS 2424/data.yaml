@@ -1,0 +1,6 @@
+names:
+- player
+nc: 1
+path: /content
+train: /content/train/images
+val: /content/val/images
